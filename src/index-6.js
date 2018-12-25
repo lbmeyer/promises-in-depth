@@ -1,4 +1,8 @@
-// using promise resolve 
+/**
+ * ------------------------------------------
+ * Using promise.resolve()
+ * ------------------------------------------
+ */
 
 // #region Setup
 const API_URL = "https://starwars.egghead.training/";

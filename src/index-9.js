@@ -1,3 +1,9 @@
+/**
+ * ------------------------------------------
+ * Async + Await with Promise.all()
+ * ------------------------------------------
+ */
+
 // #region Setup
 const API_URL = "https://starwars.egghead.training/";
 const output = document.getElementById("output");

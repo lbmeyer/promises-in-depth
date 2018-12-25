@@ -1,4 +1,8 @@
-// execute cleanup logic in JS chain with finally()
+/**
+ * ------------------------------------------
+ * Execute cleanup logic in JS chain with finally()
+ * ------------------------------------------
+ */
 
 // #region Setup
 const API_URL = "https://starwars.egghead.training/";

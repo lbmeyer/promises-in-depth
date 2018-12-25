@@ -1,4 +1,9 @@
-// catch errors in a JS promise chain with promise prototype catch
+/**
+ * ------------------------------------------
+ * Catch errors in a JS promise chain 
+ * with promise prototype catch
+ * ------------------------------------------
+ */
 
 const API_URL = "https://starwars.egghead.training/";
 const output = document.getElementById("output");

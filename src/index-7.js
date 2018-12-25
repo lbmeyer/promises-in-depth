@@ -1,4 +1,9 @@
-// Wait for the fastest JS promise to settle with proimise.race()
+/**
+ * ------------------------------------------
+ * Wait for the fastest JS promise to settle 
+ * with proimise.race()
+ * ------------------------------------------
+ */
 
 function resolveAfter(ms, value) {
   return new Promise(resolve => {

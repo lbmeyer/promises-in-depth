@@ -1,4 +1,10 @@
-// create a rejected promise in JS (allows us to see stack trace)
+/**
+ * ------------------------------------------
+ * Create a rejected promise in JS 
+ * (allows us to see stack trace)
+ * ------------------------------------------
+ */
+
 
 // #region Setup
 const API_URL = "https://starwars.egghead.training/";
@@ -12,7 +18,6 @@ function getFilmTitles(films) {
     .join("\n");
 }
 // #endregion
-
 
 fetch(API_URL + "movies")
   .then(res => {
