@@ -1,9 +1,3 @@
-import "./styles.css";
-
-// document.getElementById("app").innerHTML = `
-// <h1>Star Wars Films</h1>
-// `;
-
 const API_URL = "https://starwars.egghead.training/";
 const output = document.getElementById("output");
 

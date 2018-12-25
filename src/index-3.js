@@ -1,7 +1,5 @@
 // catch errors in a JS promise chain with promise prototype catch
 
-import "./styles.css";
-
 const API_URL = "https://starwars.egghead.training/";
 const output = document.getElementById("output");
 

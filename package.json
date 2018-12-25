@@ -11,5 +11,16 @@
   "devDependencies": {
     "@babel/core": "7.2.0",
     "parcel-bundler": "^1.6.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbmeyer/promises-in-depth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbmeyer/promises-in-depth/issues"
+  },
+  "homepage": "https://github.com/lbmeyer/promises-in-depth#readme"
 }
